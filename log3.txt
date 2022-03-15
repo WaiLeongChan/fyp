@@ -1,0 +1,4 @@
+Installed chaincodes on peer:
+Package ID: simple_sc_2_1:a499448593095ab535e5839388dcf18e4683b7f14cf44dfad16315ec979d377c, Label: simple_sc_2_1
+Package ID: simple_sc_3_1:744eb7328900496dccbab73ffb74cd98c9c79fdcaef08fd93228706facd80af2, Label: simple_sc_3_1
+Package ID: simple_sc_1:5ec8c794772c5f89cfd2297258a7007965963cc0cb5f5dee8be8fee3364fbb6d, Label: simple_sc_1
